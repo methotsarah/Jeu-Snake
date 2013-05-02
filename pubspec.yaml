@@ -1,0 +1,6 @@
+name: game
+description: A sample web application
+dependencies:
+  browser: any
+  rikulo_ui: any
+  rikulo_commons: any
