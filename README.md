@@ -8,6 +8,6 @@ source: http://alturl.com/mqg77
 Après avoir suivi les étapes cela ne fonctionnait pas, nous avons donc fait des modifications pour que celui-ci fonctionne et pour le mettre à notre image. \
 
 Fait par:
-Roms Bustamanate - 
+Roms Bustamanate - 910 067 857
 Antoine Le Bail - 909 190 505
 Sarah M\'e9thot - 111 007 952
